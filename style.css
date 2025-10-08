@@ -1,60 +1,60 @@
 * {
-    margin: 0px;
+  margin: 0px;
 }
 body {
-    background-color: rgba(0, 0, 0, 0.851);
+  background-color: rgba(0, 0, 0, 0.851);
 }
 #container {
-    width: 20em;
-    height: 30em;
-    padding: 1em;
-    border: 1px solid white;
-    border-radius: 0.5em;
-    margin: 2em auto 2em auto;
-    overflow: auto;
+  width: 20em;
+  height: 30em;
+  padding: 1em;
+  border: 1px solid white;
+  border-radius: 0.5em;
+  margin: 2em auto 2em auto;
+  overflow: auto;
 }
 #photo {
-    box-sizing: border-box;
-    width: 100%;
-    height: 15em;
-    border: 1px solid white;
-    margin-bottom: 1em;
-    position: relative;
-    color: white;
-    overflow: hidden;
+  box-sizing: border-box;
+  width: 100%;
+  height: 15em;
+  border: 1px solid white;
+  margin-bottom: 1em;
+  position: relative;
+  color: white;
+  overflow: hidden;
 }
-#photo h3{
-    box-sizing: border-box;
-    width: 100%;
-    height: 13em;
-    color: rgb(0, 0, 0);
-    background-color: rgba(255, 255, 255, 0.332);
-    padding: 5px;
-    position: absolute;
-    top: 0px;
-    left: 0px;
-    overflow-y: auto;
+#photo h3 {
+  box-sizing: border-box;
+  width: 100%;
+  height: 13em;
+  color: rgb(0, 0, 0);
+  background-color: rgba(255, 255, 255, 0.332);
+  padding: 5px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow-y: auto;
 }
 button {
-    width: 100%;
-    background-color: #4CAF50; /* Green */
-    border: none;
-    color: white;
-    padding: 15px 32px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    transition: background-color 0.5s;
+  width: 100%;
+  background-color: #4caf50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  transition: background-color 0.5s;
 }
 button:hover {
-    background-color: #18b41d;
+  background-color: #18b41d;
 }
-h1#anime{
-    color: rgb(255, 133, 133);
-    margin-bottom: 5px;
+h1#anime {
+  color: rgb(255, 133, 133);
+  margin-bottom: 5px;
 }
 
-h1#character{
-    color: rgb(117, 179, 255);
+h1#character {
+  color: rgb(117, 179, 255);
 }
