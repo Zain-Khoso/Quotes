@@ -4,4 +4,4 @@ This is one of the first projects I ever made. Since front end development is ab
 
 ---
 
-Made with Problem Solving by [Zain Khoso](https://linkedin.com/in/zain-khoso)
+Made with Problem Solving by [Zain Khoso](https://zain-khoso.vercel.app)
